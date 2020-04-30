@@ -7,6 +7,11 @@ rich set of higher-level tools including Spark SQL for SQL and DataFrames,
 MLlib for machine learning, GraphX for graph processing,
 and Structured Streaming for stream processing.
 
+------------------翻译如下-------------------------
+Spark是一个用于大规模数据处理的统一分析引擎。它提供了Scala、Java、Python和R中的高级api，以及一个优化的引擎
+支持用于数据分析的通用计算图。它还支持丰富的高级工具集，包括Spark SQL for SQL和DataFrames，
+用于机器学习的MLlib，用于图形处理的GraphX，以及用于流处理的结构化流。
+
 <https://spark.apache.org/>
 
 [![Jenkins Build](https://amplab.cs.berkeley.edu/jenkins/job/spark-master-test-sbt-hadoop-2.7-hive-2.3/badge/icon)](https://amplab.cs.berkeley.edu/jenkins/job/spark-master-test-sbt-hadoop-2.7-hive-2.3)
